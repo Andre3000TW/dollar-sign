@@ -3,6 +3,7 @@
 :moneybag: `Insert/edit/delete` records to track your recently spending \
 :moneybag: `Search` any records by date/price/description \
 :moneybag: `Barcode/QR code scanner` provides a fast way for spending tracking
+##### 
 ![interfaces](./media/dollar-sign-interfaces.png)
 
 # Test Environment
